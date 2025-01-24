@@ -34,6 +34,5 @@
 
   &:has(:checked) .checkbox-image {
     background-image: url(../../assets/interface/square-checked.svg);
-    
   }
 }
