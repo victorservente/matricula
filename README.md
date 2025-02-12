@@ -11,16 +11,12 @@ Data Library
 
 💻 Project 
 This is a School registration form of a fictitious school.
-It contains the following sections:
 
-Header
-Navigatio
-Her
-Abou
-Feature
-Pricin
-Download
-Footer.
+It contains the following sections:
+- Forms
+- Fieldsets
+- Inputs
+- Buttons
  
 
 ![Captura de tela_12-2-2025_1110_victorservente github io](https://github.com/user-attachments/assets/b7954af2-6838-4ff7-b7ea-821c09f52e4c)
